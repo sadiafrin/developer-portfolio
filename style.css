@@ -31,3 +31,29 @@ h1{
         background-image: url(images/top-banner.png);
         background-repeat: no-repeat;
     }
+    section{
+        display:flex;
+    }
+    .new-pic{
+        width: 50%;
+        padding-left:2%;
+        padding-bottom: 20%;
+    }
+
+
+    .new-pic img{
+        width:500px;
+        padding-top: 20%;
+    }
+    body{
+        .half-width{
+            width:50%;
+        }
+        margin-left: 5%;
+    }
+    .lili{
+        color:orangered;
+        padding-top:20%;
+    
+    font-family: 'Poppins', sans-serif;
+}
