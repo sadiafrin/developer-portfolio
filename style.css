@@ -47,13 +47,13 @@ h1{
 
 
     .new-pic img{
-        width:400px;
+        width:370px;
         padding-top: 20%;
     }
     
     .lili{
         color:orangered;
-        padding-top:20%;
+        padding-top:40%;
     
     font-family: 'Poppins', sans-serif;
     }
@@ -86,9 +86,9 @@ h1{
    }
 
    #web-dev-exp2{
-    border-left:7px solid;
-    border-image: linear-gradient(green, red);
-    border-image-slice: 1;
+        border-left:7px solid;
+        border-image: linear-gradient(green, red);
+        border-image-slice: 1;
    }
 
    h1{
@@ -103,6 +103,10 @@ h1{
        background-position: left;
        
       
+   }
+   footer p{
+       text-align: center;
+
    }
   
 
