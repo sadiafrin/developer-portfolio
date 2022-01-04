@@ -33,6 +33,7 @@ h1{
     }
     section{
         display:flex;
+        margin-bottom: 100px;
     }
     .new-pic{
         width: 50%;
@@ -42,7 +43,7 @@ h1{
 
 
     .new-pic img{
-        width:500px;
+        width:400px;
         padding-top: 20%;
     }
     body{
@@ -56,4 +57,18 @@ h1{
         padding-top:20%;
     
     font-family: 'Poppins', sans-serif;
-}
+
+    .link-button{
+        text-decoration: none;
+        background: orangered;
+        background-image:linear-gradient(orange,tomato);
+        padding:10px 40px;
+        color:white;
+        font-weight: 700px;
+        border-radius: 10px
+  
+
+    }
+    .dream-big{
+        background-image: url(images/dream-bg.png);
+    }
